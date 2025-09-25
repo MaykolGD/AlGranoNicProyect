@@ -4,6 +4,9 @@
 USE AlGranoNic_v3;
 GO
 
+USE AlGranoNic_v3;
+GO
+
 -- ========================================
 -- TABLA DE USUARIOS
 -- ========================================
